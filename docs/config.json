@@ -2,6 +2,13 @@
   "config": [
     {
       "type": "link",
+      "slug": "deployment/basics",
+      "title": "Basics",
+      "children": [],
+      "id": "azj4po6zk"
+    },
+    {
+      "type": "link",
       "key": "getting-started",
       "slug": "getting-started",
       "title": "Getting Started",
